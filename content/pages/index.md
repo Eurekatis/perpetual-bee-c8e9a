@@ -10,7 +10,7 @@ sections:
       - label: En Savoir plus
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Prenez rendez-vous
         url: /contact
         style: secondary
     align: left
