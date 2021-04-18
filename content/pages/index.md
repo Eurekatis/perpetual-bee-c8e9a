@@ -82,7 +82,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Eurekatis
+  title: 'Eurekatis, la gestion de projet clé en main'
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
